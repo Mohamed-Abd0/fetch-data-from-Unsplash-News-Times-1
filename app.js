@@ -76,7 +76,7 @@ form.addEventListener('submit', function (e) {
     .catch(errorHandler)
 
     // fech data from Time News
-    fetch(`http://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchText}&api-key=48nqNs5BRQuCCJztzgbrMFWDykCLPpwi`)
+    fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchText}&api-key=48nqNs5BRQuCCJztzgbrMFWDykCLPpwi`)
     .then(response=> response.json())
     .then(addArticles)
     .catch(errorHandler)
