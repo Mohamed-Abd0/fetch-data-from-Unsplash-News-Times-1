@@ -11,7 +11,7 @@ that code will take the search word from the user, and get a photo from unsplash
 
 ## Ajax-teqnique-used
 
-I used (XMLHttpRequest) to send request and reseve response from apis
+I used (Fetch) to send request and recieve response from apis
 
 ## sites-used-to-fech-data
 
