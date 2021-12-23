@@ -7,7 +7,7 @@ that code will take the search word from the user, and get a photo from unsplash
 
 * [Ajax-teqnique-used ](#Ajax-teqnique-used)
 * [sites-used-to-fech-data](#sites-used-to-fech-data)
-* [Live-site](#Live-site
+* [Live-site](#Live-site)
 
 ## Ajax-teqnique-used
 
@@ -20,7 +20,7 @@ I used (Fetch) to send request and recieve response from apis
 
 ## Live-site
 
-*
+* https://mohamed-abd0.github.io/fetch-data-from-Unsplash-News-Times-1/
 
 ## Creators
 
